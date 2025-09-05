@@ -19,6 +19,7 @@ A simple, friendly command-line **To-Do List Manager** with a progress pie chart
 Open `todo_list_manager.ipynb` in Colab.
 
 
+
 ## Notes
 - Data is kept **in memory** for simplicity (no save/load to disk).
 - When you select option **6**, the app exits gracefully.
